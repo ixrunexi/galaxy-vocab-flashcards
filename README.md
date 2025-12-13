@@ -1,5 +1,6 @@
 # Galaxy Vocabulary  Doing Things
 
+
 A desktop vocabulary flashcard application built with Python and Tkinter, featuring a galaxy-themed UI, CSV-based decks, and clean, modern Python practices.
 
 This project was designed to demonstrate desktop UI design, robust exception handling, and modern Python typing while remaining simple, readable, and extensible.
