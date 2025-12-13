@@ -19,12 +19,6 @@ This project was designed to demonstrate desktop UI design, robust exception han
 
 ---
 
-## Screenshots
-
-(Optional — add screenshots here if you want to showcase the UI visually.)
-
----
-
 ## Requirements
 
 - Python 3.9+
