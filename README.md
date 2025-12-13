@@ -1,4 +1,5 @@
-# Galaxy Vocab Flashcards Doing Things
+# Galaxy Vocab Flashcards
+
 
 A desktop vocabulary flashcard application built with Python and Tkinter, featuring a galaxy-themed UI, CSV-based decks, and clean, modern Python practices.
 
@@ -15,12 +16,6 @@ This project was designed to demonstrate desktop UI design, robust exception han
 - Accuracy and progress tracking
 - Can be compiled into a single Windows executable
 - No console window when run as an application
-
----
-
-## Screenshots
-
-(Optional — add screenshots here if you want to showcase the UI visually.)
 
 ---
 
