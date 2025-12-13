@@ -1,4 +1,4 @@
-# Galaxy Vocabulary  Doing Things
+# Galaxy Vocab Flashcards
 
 
 A desktop vocabulary flashcard application built with Python and Tkinter, featuring a galaxy-themed UI, CSV-based decks, and clean, modern Python practices.
